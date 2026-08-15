@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-0pgsc8.salamduit.online/sitemap.xml
